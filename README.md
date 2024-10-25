@@ -106,7 +106,7 @@ I’m a data enthusiast with a keen interest in deploying data-driven solutions 
 [![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1017ayushtiwari@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-tiwari-883060286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushTiwari25)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayushdatascience)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush_tiwari.____/profilecard/?igsh=OHU0cHU4ejBvaWxm)  
 
 ---
 
