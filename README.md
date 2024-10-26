@@ -93,7 +93,7 @@
 - **Advanced Certification in Data Science Using Python** – IBM Data Science Program  
   - **Skills Covered**: Machine Learning, Exploratory Data Analysis, SQL, Cloud Computing, Power BI, Tableau
  
-  **Advanced Certification in Cloud Engineering** – IBM Cloud Computing  
+- **Advanced Certification in Cloud Engineering** – IBM Cloud Computing  
    - **Skills Covered**: S3 Bucket, EC2 Instance, SQL, Cloud Computing, Virtual Private Network (VPC), Load Balancer ad more
 
 ---
